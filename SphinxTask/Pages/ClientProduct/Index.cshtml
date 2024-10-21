@@ -8,7 +8,7 @@
 <br/> 
 
 <h2>ClientProducts List</h2>
-<table class="table">
+<table class="table" id="clientProductTable">
     <thead>
         <tr>
             <th>License</th>
@@ -42,3 +42,17 @@
         }
     </tbody>
 </table>
+@section Scripts {
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.2/b-colvis-1.6.2/b-flash-1.6.2/b-html5-1.6.2/b-print-1.6.2/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.2/b-colvis-1.6.2/b-flash-1.6.2/b-html5-1.6.2/b-print-1.6.2/datatables.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#clientProductTable').DataTable();
+        });
+    </script>
+}
