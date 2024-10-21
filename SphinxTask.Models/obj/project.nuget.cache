@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u5KUlHQDWd9r8ZBdcjZXdsW9VrFzizFhgEz1V31+qKEfUO1oF0dOe1E5ZG3RDAfJ+9cBce21pQScKdRVR7BnXA==",
+  "dgSpecHash": "8/v3YsQzL6ODXqTvUyy2T/jK5GESXj5jSrDsfZ9hDnf8uB98rvFFXIrGKkMwftJX9kvldg4hzP79jsawvdivWQ==",
   "success": true,
-  "projectFilePath": "E:\\12\\New folder\\SphinxTask.Models\\SphinxTask.Models.csproj",
+  "projectFilePath": "D:\\Sphinix\\SphinxTask.Models\\SphinxTask.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1000Meza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\1000Meza\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.33\\microsoft.aspnetcore.cryptography.internal.6.0.33.nupkg.sha512",
