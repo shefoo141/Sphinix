@@ -1,0 +1,46 @@
+﻿@page
+@model SphinxTask.Pages.Client.DetailsModel
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h2>@Model.client.CName</h2>
+
+                      
+        </div>
+          <span style="margin-left: 5px; font-size: 1.2em;">Client Code: <span style="font-weight: bold;">@Model.client.Code</span></span>
+<br />
+<span style="margin-left: 5px; font-size: 1.2em;">Client Class: <span style="font-weight: bold;">@Model.client.Class</span></span>
+<br />
+<span style="margin-left: 5px; font-size: 1.2em;">Client State: <span style="font-weight: bold;">@Model.client.State</span></span>
+        <div class="card-body">
+            <h3 class="card-title">Products:</h3>
+            <div class="row">
+                @if (Model.client.ClientProducts != null && Model.client.ClientProducts.Any())
+                {
+                    foreach (var clientProduct in Model.client.ClientProducts)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card border-secondary">
+                                <div class="card-body">
+                                    <h5 class="card-title">@clientProduct.product.PName</h5>
+                                    <p class="card-text">Product ID: @clientProduct.product.PId</p>
+                                    <a asp-page ="/Product/Details" asp-route-itemid="@clientProduct.product.PId" class="btn btn-primary">View Product</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="col-12">
+                        <div class="alert alert-warning">No products available.</div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

@@ -1,0 +1,102 @@
+E:\C#\Razor Pages\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.deps.json
+E:\C#\Razor Pages\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.runtimeconfig.json
+E:\C#\Razor Pages\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\C#\Razor Pages\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\Razor Pages\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.AssemblyReference.cache
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfoInputs.cache
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfo.cs
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CoreCompileInputs.cache
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CopyComplete
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\refint\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.genruntimeconfig.cache
+E:\C#\Razor Pages\SphinxTask.DataAccess\obj\Debug\net6.0\ref\SphinxTask.DataAccess.dll
+E:\C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.deps.json
+E:\C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.runtimeconfig.json
+E:\C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.AssemblyReference.cache
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfoInputs.cache
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfo.cs
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CoreCompileInputs.cache
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CopyComplete
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\refint\SphinxTask.DataAccess.dll
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.genruntimeconfig.cache
+E:\C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\ref\SphinxTask.DataAccess.dll
+D:\1. C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.deps.json
+D:\1. C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.runtimeconfig.json
+D:\1. C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.dll
+D:\1. C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.pdb
+D:\1. C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.dll
+D:\1. C#\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.pdb
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.AssemblyReference.cache
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfoInputs.cache
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfo.cs
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CoreCompileInputs.cache
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CopyComplete
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.dll
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\refint\SphinxTask.DataAccess.dll
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.pdb
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.genruntimeconfig.cache
+D:\1. C#\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\ref\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.deps.json
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.runtimeconfig.json
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.AssemblyReference.cache
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfoInputs.cache
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfo.cs
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CoreCompileInputs.cache
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CopyComplete
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\refint\SphinxTask.DataAccess.dll
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.genruntimeconfig.cache
+E:\C#\Razor Pages\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\ref\SphinxTask.DataAccess.dll
+D:\New folder\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.deps.json
+D:\New folder\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.runtimeconfig.json
+D:\New folder\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.dll
+D:\New folder\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.pdb
+D:\New folder\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.dll
+D:\New folder\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.pdb
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.AssemblyReference.cache
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfoInputs.cache
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfo.cs
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CopyComplete
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.dll
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\refint\SphinxTask.DataAccess.dll
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.pdb
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.genruntimeconfig.cache
+D:\New folder\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\ref\SphinxTask.DataAccess.dll
+E:\12\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.deps.json
+E:\12\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.runtimeconfig.json
+E:\12\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\12\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\12\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\12\New folder\SphinxTask.DataAccess\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.AssemblyReference.cache
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfoInputs.cache
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.AssemblyInfo.cs
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CoreCompileInputs.cache
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.csproj.CopyComplete
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.dll
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\refint\SphinxTask.DataAccess.dll
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.pdb
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\SphinxTask.DataAccess.genruntimeconfig.cache
+E:\12\New folder\SphinxTask.DataAccess\obj\Debug\net6.0\ref\SphinxTask.DataAccess.dll

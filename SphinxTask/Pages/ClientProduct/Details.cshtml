@@ -1,0 +1,26 @@
+﻿@page
+@model SphinxTask.Pages.ClientProduct.DetailsModel
+
+<h2>ClientProducts Details</h2>
+<form>
+    <input hidden asp-for="cltproud.ClientproductsId"/>
+    <div class="form-group">
+        <label asp-for="cltproud.Lisence">ProductName</label>
+         <br/>
+        <input disabled asp-for="@Model.cltproud.Lisence" value="@Model.cltproud.Lisence" >
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="cltproud.StartDate"></label>
+        <br/>
+        <input disabled asp-for="@Model.cltproud.StartDate" value="@Model.cltproud.StartDate" >
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="cltproud.EndDate"></label>
+         <br/>
+        <input disabled asp-for="@Model.cltproud.EndDate" value="@Model.cltproud.EndDate" >
+    </div>
+    </form>
+    <br />
+    <a asp-page="/ClientProducts/Index" type="submit" class="btn btn-success">Back To ClientProducts</a>

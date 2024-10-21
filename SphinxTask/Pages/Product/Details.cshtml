@@ -1,0 +1,25 @@
+﻿@page
+@model SphinxTask.Pages.Product.DetailsModel
+<h2>Product Details</h2>
+<form>
+    <input hidden asp-for="product.PId"/>
+    <div class="form-group">
+        <label asp-for="product.PName">ProductName</label>
+         <br/>
+        <input disabled asp-for="@Model.product.PName" value="@Model.product.PName" >
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="product.Discription"></label>
+        <br/>
+        <input disabled asp-for="@Model.product.Discription" value="@Model.product.Discription" >
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="product.IsActive"></label>
+         <br/>
+        <input disabled asp-for="@Model.product.IsActive" value="@Model.product.IsActive" >
+    </div>
+    </form>
+    <br />
+    <a asp-page="/Product/Index" type="submit" class="btn btn-success">Back To Products</a>

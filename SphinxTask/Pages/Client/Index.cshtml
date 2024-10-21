@@ -1,0 +1,54 @@
+﻿@page
+@model SphinxTask.Pages.Client.IndexModel
+
+<a class="btn btn-primary" asp-page="/Client/Create">Create</a>
+<br/> 
+
+<h2>Client List</h2>
+<table id="clientTabe" class="table">
+    <thead>
+        <tr>
+            <th>Client Name</th>
+            <th>Code</th>
+            <th>Client State</th> 
+            <th>Client Class</th>
+            <th>Action</th>
+            <th>Action</th>
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model.clients)
+        {
+            <tr>
+                <td>@client.CName</td>
+                <td>@client.Code</td>
+                <td>@client.State</td>
+                <td>@client.Class</td>
+                <form method="post">
+                <input hidden asp-for="@client.CId"/>
+                <td> <button type="submit" asp-page ="/Client/Index" asp-route-itemid="@client.CId"class= "btn btn-danger">Delete</button> 
+                </td>
+                </form>
+                <td> <a asp-page ="/Client/Edit" asp-route-itemid="@client.CId" class= "btn btn-primary">Edit</a> </td>
+                <td> <a asp-page ="/Client/Details" asp-route-itemid="@client.CId" class= "btn btn-success">Details</a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.2/b-colvis-1.6.2/b-flash-1.6.2/b-html5-1.6.2/b-print-1.6.2/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.21/b-1.6.2/b-colvis-1.6.2/b-flash-1.6.2/b-html5-1.6.2/b-print-1.6.2/datatables.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#clientTabe').DataTable();
+        });
+    </script>
+}

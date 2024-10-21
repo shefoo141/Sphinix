@@ -1,0 +1,337 @@
+﻿++Solution 'SphinxTask' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:SphinxTask.sln
+++SphinxTask.Models
+i:{00000000-0000-0000-0000-000000000000}:SphinxTask.Models
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.models\bin\debug\net6.0\sphinxtask.models.dll
+++Dependencies
+i:{9fe2e844-d990-45be-a427-345941195159}:>427
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:>426
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:>672
+++Client.cs
+i:{9fe2e844-d990-45be-a427-345941195159}:e:\c#\razor pages\new folder\sphinxtask.models\client.cs
+++ClientProducts.cs
+i:{9fe2e844-d990-45be-a427-345941195159}:e:\c#\razor pages\new folder\sphinxtask.models\clientproducts.cs
+++Product.cs
+i:{9fe2e844-d990-45be-a427-345941195159}:e:\c#\razor pages\new folder\sphinxtask.models\product.cs
+++Analyzers
+i:{9fe2e844-d990-45be-a427-345941195159}:analyzers
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:analyzers
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:analyzers
+++Frameworks
+i:{9fe2e844-d990-45be-a427-345941195159}:frameworks
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:frameworks
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:frameworks
+++Packages
+i:{9fe2e844-d990-45be-a427-345941195159}:packages
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:packages
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:packages
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9fe2e844-d990-45be-a427-345941195159}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9fe2e844-d990-45be-a427-345941195159}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9fe2e844-d990-45be-a427-345941195159}:c:\users\1000meza\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.35\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:c:\users\1000meza\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.35\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\users\1000meza\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.35\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9fe2e844-d990-45be-a427-345941195159}:c:\users\1000meza\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:c:\users\1000meza\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\users\1000meza\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{9fe2e844-d990-45be-a427-345941195159}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{9fe2e844-d990-45be-a427-345941195159}:e:\c#\razor pages\new folder\sphinxtask.models\microsoft.netcore.app
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\microsoft.netcore.app
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.33)
+i:{9fe2e844-d990-45be-a427-345941195159}:>721
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:>696
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:>707
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.35)
+i:{9fe2e844-d990-45be-a427-345941195159}:>720
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:>694
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:>706
+++Microsoft.EntityFrameworkCore.Tools (6.0.35)
+i:{9fe2e844-d990-45be-a427-345941195159}:>722
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:>698
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:>708
+++SphinxTask.DataAccess
+i:{00000000-0000-0000-0000-000000000000}:SphinxTask.DataAccess
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\bin\debug\net6.0\sphinxtask.dataaccess.dll
+++DataBase
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\database\
+++Migrations
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\migrations\
+++Repository
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\
+++Projects
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:projects
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:projects
+++AppDBContext.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\database\appdbcontext.cs
+++20241018170349_SphinxTaskDB.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\migrations\20241018170349_sphinxtaskdb.cs
+++20241018211545_ModifyData.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\migrations\20241018211545_modifydata.cs
+++AppDBModelSnapshot.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\migrations\appdbmodelsnapshot.cs
+++ClientProductRepo.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\clientproductrepo.cs
+++ClientRepo.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\clientrepo.cs
+++IClientProductRepo.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\iclientproductrepo.cs
+++IClientRepo.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\iclientrepo.cs
+++IProductRepo.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\iproductrepo.cs
+++ProductRepo.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\repository\productrepo.cs
+++20241018170349_SphinxTaskDB.Designer.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\migrations\20241018170349_sphinxtaskdb.designer.cs
+++20241018211545_ModifyData.Designer.cs
+i:{8e057601-4cd1-441c-af4d-e2a3ec920b09}:e:\c#\razor pages\new folder\sphinxtask.dataaccess\migrations\20241018211545_modifydata.designer.cs
+++SphinxTask
+i:{00000000-0000-0000-0000-000000000000}:SphinxTask
+++Connected Services 
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:>673
+++Properties
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\properties\
+++wwwroot
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\
+++Pages
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\
+++Client
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\
+++Create.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\create.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\clientproduct\create.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\create.cshtml
+++Create.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\create.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\clientproduct\create.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\create.cshtml.cs
+++Edit.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\edit.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\edit.cshtml
+++Edit.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\edit.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\edit.cshtml.cs
+++Index.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\index.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\clientproduct\index.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\index.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\index.cshtml
+++ClientProduct
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\clientproduct\
+++Index.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\clientproduct\index.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\index.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\client\index.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\index.cshtml.cs
+++Product
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\product\
+++Shared
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\shared\
+++_ViewImports.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\_viewstart.cshtml
+++Error.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\error.cshtml
+++Privacy.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\privacy.cshtml
+++appsettings.json
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\appsettings.json
+++Program.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\program.cs
+++No service dependencies discovered
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:>674
+++launchSettings.json
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\properties\launchsettings.json
+++css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\css\
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\js\
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\
+++favicon.ico
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\favicon.ico
+++_Layout.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\error.cshtml.cs
+++Privacy.cshtml.cs
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\privacy.cshtml.cs
+++appsettings.Development.json
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\microsoft.aspnetcore.app
+++site.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\css\site.css
+++site.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\js\site.js
+++bootstrap
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\
+++jquery
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery\
+++jquery-validation
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\pages\shared\_layout.cshtml.css
+++dist
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery\dist\
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery\license.txt
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{cce822a3-7812-4b9f-9040-b38efa057461}:e:\c#\razor pages\new folder\sphinxtask\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Edit.cshtml.cs~RF160afc8d.TMP
+++Edit.cshtml~RF160be0c3.TMP
+++Edit.cshtml~RF160d4b30.TMP
+++Edit.cshtml.cs~RF16137030.TMP
+++Edit.cshtml~RF1613fc53.TMP
+++Edit.cshtml~RF1618d8b5.TMP
+++Edit.cshtml~RF1619f86e.TMP
+++Index.cshtml.cs~RF161b7c20.TMP
+++Index.cshtml~RF16273568.TMP
+++Create.cshtml~RF16312e04.TMP
+++Index.cshtml~RF16340f33.TMP
+++Index.cshtml~RF16399747.TMP
+++Index.cshtml~RF1643eba0.TMP

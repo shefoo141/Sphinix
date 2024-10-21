@@ -1,0 +1,70 @@
+E:\C#\Razor Pages\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.deps.json
+E:\C#\Razor Pages\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.runtimeconfig.json
+E:\C#\Razor Pages\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\Razor Pages\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.AssemblyReference.cache
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfoInputs.cache
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfo.cs
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.CoreCompileInputs.cache
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\refint\SphinxTask.Models.dll
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.genruntimeconfig.cache
+E:\C#\Razor Pages\SphinxTask.Models\obj\Debug\net6.0\ref\SphinxTask.Models.dll
+D:\1. C#\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.deps.json
+D:\1. C#\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.runtimeconfig.json
+D:\1. C#\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.dll
+D:\1. C#\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.pdb
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.AssemblyReference.cache
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfoInputs.cache
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfo.cs
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.CoreCompileInputs.cache
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.dll
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\refint\SphinxTask.Models.dll
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.pdb
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.genruntimeconfig.cache
+D:\1. C#\New folder\SphinxTask.Models\obj\Debug\net6.0\ref\SphinxTask.Models.dll
+E:\C#\Razor Pages\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.deps.json
+E:\C#\Razor Pages\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.runtimeconfig.json
+E:\C#\Razor Pages\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\Razor Pages\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.AssemblyReference.cache
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfoInputs.cache
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfo.cs
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.CoreCompileInputs.cache
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.dll
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\refint\SphinxTask.Models.dll
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.pdb
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.genruntimeconfig.cache
+E:\C#\Razor Pages\New folder\SphinxTask.Models\obj\Debug\net6.0\ref\SphinxTask.Models.dll
+D:\New folder\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.deps.json
+D:\New folder\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.runtimeconfig.json
+D:\New folder\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.dll
+D:\New folder\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.pdb
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.AssemblyReference.cache
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfoInputs.cache
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfo.cs
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.dll
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\refint\SphinxTask.Models.dll
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.pdb
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.genruntimeconfig.cache
+D:\New folder\New folder\SphinxTask.Models\obj\Debug\net6.0\ref\SphinxTask.Models.dll
+E:\12\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.deps.json
+E:\12\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.runtimeconfig.json
+E:\12\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.dll
+E:\12\New folder\SphinxTask.Models\bin\Debug\net6.0\SphinxTask.Models.pdb
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.AssemblyReference.cache
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfoInputs.cache
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.AssemblyInfo.cs
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.csproj.CoreCompileInputs.cache
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.dll
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\refint\SphinxTask.Models.dll
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.pdb
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\SphinxTask.Models.genruntimeconfig.cache
+E:\12\New folder\SphinxTask.Models\obj\Debug\net6.0\ref\SphinxTask.Models.dll

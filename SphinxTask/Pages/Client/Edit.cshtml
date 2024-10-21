@@ -1,0 +1,43 @@
+﻿@page
+@model SphinxTask.Pages.Client.EditModel
+
+
+<form  method="post">
+    <input hidden asp-for="clients.CId" />
+    <div class="form-group">
+        <label asp-for="clients.CName"></label>
+        <input asp-for="clients.CName" class="form-control" />
+        <span asp-validation-for="clients.CName" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="clients.Code"></label>
+        <input asp-for="clients.Code" class="form-control" readonly="readonly"/>
+        <span asp-validation-for="clients.Code" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="clients.Class"></label>
+        <select asp-for="clients.Class" class="form-control" asp-items="Model.ClientClass">
+        </select>
+        <span asp-validation-for="clients.Class" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="clients.State"></label>
+        <select asp-for="clients.State" class="form-control" asp-items="Model.ClientStates">
+        </select>
+        <span asp-validation-for="clients.State" class="text-danger"></span>
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-success">Edit</button>
+     <br/>
+     <br/>
+
+    </form>
+        <a asp-page="/Client/Index" type="submit" class="btn btn-success">Back To Clients</a>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,44 @@
+﻿@page
+@model SphinxTask.Pages.ClientProduct.IndexModel
+@inject SphinxTask.DataAccess.Repository.IClientRepo C
+@inject SphinxTask.DataAccess.Repository.IProductRepo P
+
+<br/>
+<a class="btn btn-primary" asp-page="/ClientProduct/Create">Create</a>
+<br/> 
+
+<h2>ClientProducts List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>License</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Client </th>
+            <th>Product</th>
+            <th>Delete</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.clientProducts)
+        {
+            <tr>
+                <td>@item.Lisence</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>@C.Getone(item.ClientId).CName</td>
+                <td>@P.GetOne(item.ProductId).PName</td>
+                <td>
+                    <form method="post" asp-page="/ClientProduct/Index">
+                        <input type="hidden" name="clientproductsId" value="@item.ClientproductsId" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+                <td>
+                   <a asp-page="/ClientProduct/Edit" asp-route-itemid="@item.ClientproductsId" class="btn btn-primary">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
